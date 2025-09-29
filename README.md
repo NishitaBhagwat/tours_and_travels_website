@@ -1,1 +1,1 @@
-<h3>Tours and Travels Website<\h3>
+<h3 align='left'>Tours and Travels Website</h3>
